@@ -37,6 +37,8 @@ public class ListarMarcaGui extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
+        jPanel1.setBackground(new java.awt.Color(204, 204, 255));
+
         MarcasTxt.setText("Marcas");
 
         pesquisaJB.setText("Pesquisar");
